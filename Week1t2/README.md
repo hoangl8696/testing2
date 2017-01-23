@@ -1,5 +1,7 @@
 # Week1t2
 
+Note: I did not do task A, since I need task A to do task B, so I figure it would save time if I just do task B
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
 
 ## Development server
